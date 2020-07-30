@@ -1,3 +1,4 @@
 # Galeria-de-imagenes
 Galeria de imagenes con texto (https://lorem-peronista.netlify.app/)
-(galeriaPNG)
+# Galería
+![Galería de imagenes](galeria.PNG)
